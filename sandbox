@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>HTML CSS Sandbox - Madden 22 MUT</title>
+</head>
+
+<body>
+    <header>
+        <h1>My Ultimate Team</h1>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ea.com%2Fgames%2Fmadden-nfl%2Fmadden-nfl-22&psig=AOvVaw1miiGPxook4zv4E5RPdSt3&ust=1642875471066000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJi-vJu6w_UCFQAAAAAdAAAAABAD"
+            alt="logo" />
+        <nav>
+            <ul>
+                <li><a href="https://www.muthead.com/22/players/28021034/">96 Overall - QB Justin Herbert</a></li>
+                <li><a href="https://www.muthead.com/22/players/26020348/">94 Overall - Deebo Samuel</a></li>
+                <li><a href="https://www.muthead.com/22/players/25221829/">92 Overall - RB Najee Harris</a></li>
+                <li><a href="https://www.muthead.com/22/players/10520940/upgrades/0/7">95 Overall - WR Jerry Jeudy</a>
+                </li>
+                <li><a href="https://www.muthead.com/22/players/23027903/">95 Overall - WR Calvin Johnson</a></li>
+                <li><a href="https://www.muthead.com/22/players/25220435/">94 Overall - WR Terry McLaurin</a></li>
+                <li><a href="https://www.muthead.com/22/players/25000521/upgrades/0/2">94 Overall - TE Robert Woods</a>
+                </li>
+                <li><a href="https://www.muthead.com/22/players/26010613/">94 Overall - LT Taylor Lewan</a></li>
+                <li><a href="https://www.muthead.com/22/players/26009804/">93 Overall - LG Rodger Saffold III</a></li>
+                <li><a href="https://www.muthead.com/22/players/19013110/">92 Overall - C Frank Ragnow</a></li>
+                <li><a href="https://www.muthead.com/22/players/28012348/">96 Overall - RG Zach Martin</a></li>
+                <li><a href="https://www.muthead.com/22/players/25221540/">92 Overall - RT Penei Sewell</a></li>
+                <li><a href="https://www.muthead.com/22/players/10510697/upgrades/0/12">97 Overall - LE Cameron
+                        Jordan</a></li>
+                <li><a href="https://www.muthead.com/22/players/10517746/upgrades/0/13">96 Overall - DT D.J. Reader</a>
+                </li>
+                <li><a href="https://www.muthead.com/22/players/11427267/">95 Overall - RE Mario Williams</a></li>
+                <li><a href="https://www.muthead.com/22/players/612902924/">93 Overall - ROLB Ted Hendricks</a></li>
+                <li><a href="https://www.muthead.com/22/players/25001286/">92 Overall - MLB Alec Ogletree</a></li>
+                <li><a href="https://www.muthead.com/22/players/18303041/">94 Overall - LOLB Brad Van Pelt</a></li>
+                <li><a href="https://www.muthead.com/22/players/10502580/upgrades/0/7">97 Overall - CB P.J. Williams</a>
+                </li>
+                <li><a href="https://www.muthead.com/22/players/25004009/">93 Overall - CB D.K. Metcalf</a></li>
+                <li><a href="https://www.muthead.com/22/players/12309952/upgrades/0/5">96 Overall - FS Taylor Mays</a>
+                </li>
+                <li><a href="https://www.muthead.com/22/players/11500489/upgrades/0/8">96 Overall - SS John Lynch</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>About My Ultimate Team</h1>
+            <section>
+                <blockquote>
+                    <h2>How I got my squad built to start off</h2>
+                    <p><strong>S</strong>o I got Madden 22 for Christmas along with a $50 card.
+                        However I didn't use all of it on this game because I got NHL 22 as well. The dumb part was that
+                        I
+                        only used $18 instaed of the whole thing. So I started off at an 88 Overall because of buying
+                        the
+                        competitive pack that would give me a squad for both sides of the ball. It gave me some good
+                        players
+                        such as Michael Vick, Luke Kuechly, Troy Polamalu, and more. This team turned out pretty good
+                        for
+                        the 1 month process. However, this team still needs builing on offense. As the Tony Romo and the
+                        Offensive Line needs to be replaced for better protection along with better accuracy on throws.
+                    </p>
+                </blockquote>
+                <h2>How I got my Quarterback</h2>
+                <blockquote>
+                    <p> Tony Romo has an ability that gives his receivers extra routes called <em>Hot Route Master</em>,
+                        what's so good about this ability is that it gives the receiver 4 extra hot routes to make the
+                        play
+                        better to your benefit. So it gives you more options to choose from.
+                        With that being said, there is a better Quarterback that I'm trying to get. Which is the 96
+                        Overall Justin Herbert.
+                        Where I would put 3 abilities that contains 9 abitity points. The first one was quickdraw, which
+                        contains 1 ability point
+                        and what it does is it gives the QB a quicker release when under pressure. The next ability is
+                        Gunslinger which is 6
+                        abiltiy points. This as well helps with a quick release but gives the QB a stronger and faster
+                        throw. This is considered to be the best ability in the game right now. And lastly, the most
+                        important part, hot route master. Which is what I had when I had Romo as my QB.</p>
+                </blockquote>
+                <h2>My offense to a 94 Overall</h2>
+                <blockquote>
+                    <p>Since you already know who my Quarterback is, lemme start off with how I built the running back
+                        lineup. I needed a receiving back and a power back. Deebo Samuel with a grab and go ability was
+                        literally the best option to pick from since I got him for free. I got him by winning 25 games
+                        on house rules mode on the second update on it. That was after I got my Left Tackle, Taylor
+                        Lewan, by winning only 10 games on house rules. This took me 35 wins in total on the process.
+                        But only took 2 days in the process. Also I had to get a decent powerback for goalline and
+                        inside runs. Najee Harris is a great powerback that is fast for his overall rating, 92, and does
+                        me great service scoring touchdowns from the goalline. Wide receivers on the other hand I made
+                        sure I had a balance. Calvin Johnson, A tall fast wide reciever, Jerry Jeudy, a route runner,
+                        Terry McLaurin, a deep threat, make the perfect combo to give me that balance as well as speed
+                        and acceleration. Also having a Tight end in my scheme is a must, as I have an Out-of-Position,
+                        94 Overall, Robert Woods, to get me some speed on a couple more plays I love to run, who I got
+                        in a set to get my Tight End. To the rest of my Offensive Line, they all do the job. I seriously
+                        can't remember the last time I got sacked or even have a tackle for a loss.</p>
+                </blockquote>
+                <blockquote>
+                    <h2>My defense to a 96 Overall</h2>
+                    <p>The front line says it all on the defense as the best player on my team is my Left End as a 99
+                        Overall with my Run Stuff and Mind Reader strategy cards that also go to the rest of the team.
+                        Cameron Jordan is the best run stopper in the game who can also sack the Quarterback. Along with
+                        97 Overall Mario Williams who is a giant at Right End standing at 6'6, 292 lbs with 89 Speed as
+                        a Defensive End. At Defensive Tackle who I got for free from the Gridiron Forge, D.J. Reader is
+                        a great Defensive Tackle to have for free that could save me coins and do good service for me.
+                        My secondary is another key part of my defense. </p>
+                </blockquote>
+
+                <p>Optio veniam reiciendis alias inventore quo expedita quos consectetur. Commodi, beatae? Sapiente
+                    harum corporis quae aut consequatur ex consectetur distinctio accusantium eos id. Repellat
+                    officia, provident molestiae libero facere iure.</p>
+            </section>
+            <section>
+                <h2>Consequuntur libero sed aut temporibus?</h2>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Et officia odit tempora tempore.</li>
+                    <li>Delectus possimus autem provident optio!</li>
+                    <li>Eos quidem maiores ipsum blanditiis.</li>
+                    <li>Totam nobis doloremque optio? Exercitationem?</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Animi fugiat accusamus optio expedita.</h2>
+                <div>
+                    <img src="https://picsum.photos/256?grayscale&blur=2&random=1" alt="">
+                    <img src="https://picsum.photos/256?grayscale&blur=2&random=2" alt="">
+                    <img src="https://picsum.photos/256?grayscale&blur=2&random=3" alt="">
+                </div>
+            </section>
+            <section>
+                <h2>Quisquam accusamus quaerat voluptates facere?</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam ex ipsam repellat velit debitis
+                    nulla amet, voluptates, sapiente quaerat soluta maxime magnam, eius exercitationem eveniet eos
+                    quas! Eaque, quia consequuntur?</p>
+                <p>Officia dignissimos at mollitia. Officiis quasi quis corporis maiores, reiciendis voluptatibus
+                    natus, molestiae eius esse necessitatibus earum dignissimos, distinctio hic beatae harum? Eius,
+                    ab maiores eos nisi suscipit veritatis ut.</p>
+                <p>Maiores incidunt blanditiis odio? Aliquam sint dolores iusto saepe, quisquam alias deserunt
+                    quibusdam sed neque debitis illum ad aperiam deleniti? Eum culpa aperiam quas rem accusamus,
+                    delectus perferendis et ratione?</p>
+                <p>Veniam ullam ipsam, nostrum facilis debitis illo soluta enim tenetur reprehenderit nihil ab
+                    doloremque facere omnis, dolores totam eius id quos nulla explicabo. Mollitia voluptatem id
+                    consectetur corporis quae obcaecati.</p>
+                <p>Voluptatem illo hic delectus labore dicta commodi quibusdam veniam! Sint quidem, facilis incidunt
+                    cupiditate delectus cumque architecto provident doloribus at vitae obcaecati id consequuntur
+                    tempore laborum vel natus eos nulla.</p>
+            </section>
+        </article>
+    </main>
+</body>
+
+</html>
